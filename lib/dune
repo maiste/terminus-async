@@ -1,0 +1,4 @@
+(library
+ (name terminus_async)
+ (public_name terminus-async)
+ (libraries terminus cohttp-async))
