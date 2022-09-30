@@ -1,0 +1,4 @@
+(test
+ (package terminus-async)
+ (name async_test)
+ (libraries terminus-async helpers))
